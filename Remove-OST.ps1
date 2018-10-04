@@ -20,6 +20,5 @@
         {
             Write-Host -ForegroundColor Red "$ComputerName is offline"
         }
-
     }
 }
